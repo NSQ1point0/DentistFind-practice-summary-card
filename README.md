@@ -81,7 +81,7 @@ This card component would serve as a core building block in a larger dashboard:
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/NSQ1point0/DentistFind-practice-summary-card.git
 cd dentistfind-practice-dashboard
 
 # Install dependencies
